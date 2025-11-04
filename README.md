@@ -38,7 +38,7 @@ Product Type
 - Merging and converting date and time columns into a datetime object
 - Creating calculated fields (sale, month, month_name, day_name, and hour)
 - Checked and fixed duplicate records and null data points
-- Dropped Unnessary column('store_id', 'product_id', 'product_detail') to improve tools performance.
+- Dropped unnecessary column('store_id', 'product_id', 'product_detail') to improve tools performance.
 
 ### Business Questions and insights
 1. What are the total sales, quantity, and average spent per order?
