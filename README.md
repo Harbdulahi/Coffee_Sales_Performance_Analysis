@@ -183,6 +183,25 @@ Unit price vs quantity correlation
 ![correlation](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/chart_and_tables/Unit_Price_Vs_Quantity_Sold_Correlation.png)
 
 ### Summary And Recommendation
+
+After completing the sales analysis we can say that coffee, tea and bakery category contribute to the overall sales. There is an upward trend in sales across the 6 months period with February having the least sale and June, the peak sale.
+
+There's almost no correlation between unit price and quantity sold by row level, ẹ.g if coffee is $3.4 there's no increase in quantity for that record (quantity frequency distribution will be right skew, customer purchase 1 or 2 product(s) per order at least)
+
+The Sales across all 3 stores are consistence, with almost no difference in revenue generated.
+
+The coffee, tea and bakery category has the highest sales trend across 6 month, the MoM on average across the 6 month period is at 16.27%
+
+There's almost no change between weekdays and weekends sales(slight variation)
+
+
+### Recommendation
+
+Discount can be offer on expensive product category during the rush hours (7am - 10am) to increase revenue.
+
+
+
+
 [Analysis Notebook](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/dataset%20and%20notebook/coffee_sale_performance_analysis.ipynb)
 
 
