@@ -26,7 +26,7 @@ Product Type
 
 7 columns are needed for our analysis
 
-[coffee_sale_notebook](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/dataset%20and%20notebook/coffee_sale_performance_analysis.ipynb)
+[Analysis Notebook](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/dataset%20and%20notebook/coffee_sale_performance_analysis.ipynb)
 
 ### Tools And Libraries
 - Python
@@ -98,7 +98,7 @@ Product Type
 
    They are slow movers due to been slightly expensive than other products
 
-[notebook link]
+[Analysis Notebook](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/dataset%20and%20notebook/coffee_sale_performance_analysis.ipynb)
 5. **How is the unit price distributed**
    [Chart Here]
    The distribution is **right skewed** meaning low price products sell the most
@@ -159,12 +159,11 @@ Product Type
 
 12. **What is the Product Category Sales Trend Across the Months Like**
     [chart here]
-[notebook link]
+[Analysis Notebook](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/dataset%20and%20notebook/coffee_sale_performance_analysis.ipynb)
 ### Other Visuals
 
 
 ### Summary And Recommendation
-[notebook link]
-
+[Analysis Notebook](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/dataset%20and%20notebook/coffee_sale_performance_analysis.ipynb)
 
 
