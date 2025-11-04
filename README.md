@@ -26,7 +26,7 @@ Product Type
 
 7 columns are needed for our analysis
 
-[notebooklink]
+[coffee_sale_notebook](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/dataset%20and%20notebook/coffee_sale_performance_analysis.ipynb)
 
 ### Tools And Libraries
 - Python
