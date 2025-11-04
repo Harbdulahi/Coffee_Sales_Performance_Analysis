@@ -98,13 +98,16 @@ Product Type
 
    They are slow movers due to been slightly expensive than other products
 
-[Analysis Notebook](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/dataset%20and%20notebook/coffee_sale_performance_analysis.ipynb)
+   [Analysis Notebook](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/dataset%20and%20notebook/coffee_sale_performance_analysis.ipynb)
+
 5. **How is the unit price distributed**
-   [Chart Here]
+
+   ![unit price distribution](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/chart_and_tables/Unit_Price_Distribution.png)
+
    The distribution is **right skewed** meaning low price products sell the most
 
    
-6. **Which product category gives the highest margin**
+7. **Which product category gives the highest margin**
 
     |Category | Sale | Percentage|
     |---------|------|-----------|
@@ -119,14 +122,14 @@ Product Type
     |Packaged Chocolate |  4407.64 | 0.63%|
 
 
-      [Chart here]
+   ![category sales share](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/chart_and_tables/category_sales_share.png
 
     The **coffee category** give the highest sales margin of **38.63%**
 
-7. **Which category or categories  contribute the most to the overall revenue**
+8. **Which category or categories  contribute the most to the overall revenue**
       [chart here]
 
-8. **What are the Peak hours for coffee sales**
+9. **What are the Peak hours for coffee sales**
     
       **HOURS**
       |  6   | 7  |   8  |    9  |     10|       11  |      12   |  13     |  14  |   15|     16      |17       |18        |19      |20 |
@@ -135,11 +138,11 @@ Product Type
 
     [Chart Here]
 
-9. **How is the revenue trend from month to month over the 2 Quarters**
+10. **How is the revenue trend from month to month over the 2 Quarters**
 
       Sales has an upward trend with february having the least sales and june having the highest sales
 
-10. **Month-over-Month Growth Rate**
+11. **Month-over-Month Growth Rate**
   
    
     |Month |Growth_Rate (MOM) |
@@ -153,11 +156,11 @@ Product Type
    
       The Avg growth rate across the months is: **16.27%**
 
-11. **Which day of the week contributes the most to sales**
+12. **Which day of the week contributes the most to sales**
 
     There is almost no variation between the weekly sales, and Weekdays make more sales than weekend only by slight margin (almost no difference)
 
-12. **What is the Product Category Sales Trend Across the Months Like**
+13. **What is the Product Category Sales Trend Across the Months Like**
     [chart here]
 [Analysis Notebook](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/dataset%20and%20notebook/coffee_sale_performance_analysis.ipynb)
 ### Other Visuals
