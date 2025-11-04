@@ -2,7 +2,7 @@
 
 ### Project: Coffee Sales Performance Analysis
 
-The objective of this analysis is to check the financial health of a coffee brand that has 3 physical stores and look for where optimizations are needed for maximum profit from business settings. In this analysis, we walk through what the top performing stores, products, and categories are, and check if low price leads to an increase in quantity or sales, etc.... And at the end of the analysis, recommendations will be provided based on the analysis outcomes on business objectives (business questions).
+   The objective of this analysis is to check the financial health of a coffee brand that has 3 physical stores and look for where optimizations are needed for maximum profit from business settings. In this analysis, we walk through what the top performing stores, products, and categories are, and check if low price leads to an increase in quantity or sales, etc.... And at the end of the analysis, recommendations will be provided based on the analysis outcomes on business objectives (business questions).
 
 #### Dataset And Data Dictionary:
 
@@ -58,7 +58,7 @@ Product Type
    There is only *slight* variation among the 3 stores **KPIs**
 
  
-4. **Which products are the top-selling products by revenue and quantity in each store?**
+3. **Which products are the top-selling products by revenue and quantity in each store?**
 
    | No. |Store Location|	Product Type	|Transaction Qty|
    |----|---------------|-----------------|---------------|
@@ -84,7 +84,7 @@ Product Type
       Yes low selling unit price leads to increase in overall quantity sold (not per row or data point)
 
 
-6. **What are the Top 5 slow-moving products**
+4. **What are the Top 5 slow-moving products**
 
    |Product	|Quantity Sold| Unit price|
    |---------|------------|-----------|
@@ -97,12 +97,12 @@ Product Type
    They are slow movers due to been slightly expensive than other products
 
 
-8. **How is the unit price distributed**
+5. **How is the unit price distributed**
    [Chart Here]
    The distribution is **right skewed** meaning low price products sell the most
 
    
-10. **Which product category gives the highest margin**
+6. **Which product category gives the highest margin**
 
        |Category | Sale | Percentage|
        |---------|------|-----------|
@@ -122,7 +122,7 @@ Product Type
        The **coffee category** give the highest sales margin of **38.63%**
    
 
-12. **What are the Peak hours for coffee sales**
+7. **What are the Peak hours for coffee sales**
     
       **HOURS**
       |  6   | 7  |   8  |    9  |     10|       11  |      12   |  13     |  14  |   15|     16      |17       |18        |19      |20 |
@@ -131,25 +131,25 @@ Product Type
 
     [Chart Here]
 
-14. **How is the revenue trend from month to month over the 2 Quarters**
+8. **How is the revenue trend from month to month over the 2 Quarters**
 
-   Sales has an upward trend with february having the least sales and june having the highest sales
+      Sales has an upward trend with february having the least sales and june having the highest sales
 
-15. **Month-over-Month Growth Rate**
+9. **Month-over-Month Growth Rate**
   
    
-   |Month |Growth_Rate (MOM) |
-   |------|-------------------|
-   |2023-01-31	| 0% |
-   |2023-02-28	| -6.77% |
-   |2023-03-31	|  29.79% |
-   |2023-04-30	|  20.34% |
-   |2023-05-31	| 31.76% |
-   |2023-06-30	| 6.22% |
+         |Month |Growth_Rate (MOM) |
+         |------|-------------------|
+         |2023-01-31	| 0% |
+         |2023-02-28	| -6.77% |
+         |2023-03-31	|  29.79% |
+         |2023-04-30	|  20.34% |
+         |2023-05-31	| 31.76% |
+         |2023-06-30	| 6.22% |
    
-   The Avg growth rate across the months is: **16.27%**
+      The Avg growth rate across the months is: **16.27%**
 
-16. **Which day of the week contributes the most to sales**
+10. **Which day of the week contributes the most to sales**
 
     There is almost no variation between the weekly sales, and Weekdays make more sales than weekend only by slight margin (almost no difference)
 
