@@ -147,7 +147,7 @@ Product Type
    |2023-05-31	| 31.76% |
    |2023-06-30	| 6.22% |
    
-   The Avg growth rate across the months is: 16.27%
+   The Avg growth rate across the months is: **16.27%**
 
 16. **Which day of the week contributes the most to sales**
 
