@@ -2,7 +2,7 @@
 
 ### Project: Coffee sales Performance Analysis
 
-The objective of this analysis is to check the financial health of a coffee brand that has 3 physical stores and look for where optimization are needed for maximum profit from business settings. In this analysis we walk through what are the top performing stores, product and categories, check if low price does lead to increase in quantity or sales etc.... And at the end of the analysis, recommendations will be provided on based analysis outcomes on business objectives (bisuness questions).
+The objective of this analysis is to check the financial health of a coffee brand that has 3 physical stores and look for where optimization are needed for maximum profit from business settings. In this analysis we walk through what are the top performing stores, product and categories, check if low price does lead to increase in quantity or sales etc.... And at the end of the analysis, recommendations will be provided based on analysis outcomes on business objectives (bisuness questions).
 
 #### Dataset And Data Dictionary:
 
