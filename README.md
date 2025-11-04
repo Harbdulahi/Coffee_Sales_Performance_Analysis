@@ -139,9 +139,9 @@ Product Type
 
 9. **How is the revenue trend from month to month over the 2 Quarters**
 
-![sales trend](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/chart_and_tables/Sales_Trend_Across_The_Months.png)
-
    Sales has an upward trend with february having the least sales and june having the highest sales
+
+![sales trend](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/chart_and_tables/Sales_Trend_Across_The_Months.png)
 
 10. **Month-over-Month Growth Rate**
   
@@ -158,16 +158,29 @@ Product Type
       The Avg growth rate across the months is: **16.27%**
 
 12. **Which day of the week contributes the most to sales**
-
-    There is almost no variation between the weekly sales, and Weekdays make more sales than weekend only by slight margin (almost no difference)
+  
+   ![weekday sale](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/chart_and_tables/Weekly_Sales_Trend.png)
+   
+   There is almost no variation between the weekly sales, and Weekdays make more sales than weekend only by slight margin (almost no difference)
 
 13. **What is the Product Category Sales Trend Across the Months Like**
+
     ![category sales trend](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/chart_and_tables/Category_Sales_Trend_Across_the_Month.png)
 
-[Analysis Notebook](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/dataset%20and%20notebook/coffee_sale_performance_analysis.ipynb)
+    [Analysis Notebook](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/dataset%20and%20notebook/coffee_sale_performance_analysis.ipynb)
 
 ### Other Visuals
 
+Top Expensive and bottom 3 affordable product (Unit price)
+
+![topandbottom3](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/chart_and_tables/Top_3_Bottom_3_products_(Avg_Unit_Price).png)
+
+Sales by Product Category
+![category_sales](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/chart_and_tables/Sales_by_Product_Category.png)
+
+Unit price vs quantity correlation 
+
+![correlation](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/chart_and_tables/Unit_Price_Vs_Quantity_Sold_Correlation.png)
 
 ### Summary And Recommendation
 [Analysis Notebook](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/dataset%20and%20notebook/coffee_sale_performance_analysis.ipynb)
