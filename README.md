@@ -42,7 +42,6 @@ Product Type
 
 ### Business Questions and insights
 1. What are the total sales, quantity, and average spent per order?
-
    The Total Sales across all 3 stores is **$698,812.33**, Quantity sold is **214,470**, and the Avg Order Value (AOV) is **$4.69**
 2. What are the sales, quantity, and AOV in individual stores?
 3. Which products are the top-selling products by revenue and quantity in each store?
