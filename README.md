@@ -26,6 +26,8 @@ Product Type
 
 7 columns are needed for our analysis
 
+[notebooklink]
+
 ### Tools And Libraries
 - Python
 - Jupyter Notebook (VsCode)
@@ -96,7 +98,7 @@ Product Type
 
    They are slow movers due to been slightly expensive than other products
 
-
+[notebook link]
 5. **How is the unit price distributed**
    [Chart Here]
    The distribution is **right skewed** meaning low price products sell the most
@@ -157,12 +159,12 @@ Product Type
 
 12. **What is the Product Category Sales Trend Across the Months Like**
     [chart here]
-
+[notebook link]
 ### Other Visuals
 
 
 ### Summary And Recommendation
-
+[notebook link]
 
 
 
