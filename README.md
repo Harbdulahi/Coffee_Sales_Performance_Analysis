@@ -55,7 +55,7 @@ Product Type
    | Hell's Kitchen | 236511.17  |         71737	      |        50735	      |4.66 |
    | Lower Manhattan	| 230057.25	|         71742	      |        47782	      | 4.81|
 
-   [chart go here]
+   ![KPIs across stores](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/chart_and_tables/sales%2CQuantity%2COrdercount%2CandAOV.png)
    
    There is only *slight* variation among the 3 stores **KPIs**
 
