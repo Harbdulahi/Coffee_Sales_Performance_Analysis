@@ -122,27 +122,28 @@ Product Type
     |Packaged Chocolate |  4407.64 | 0.63%|
 
 
-   ![category sales share](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/chart_and_tables/category_sales_share.png
+   ![category sales share](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/chart_and_tables/category_sales_share.png)
 
     The **coffee category** give the highest sales margin of **38.63%**
 
-8. **Which category or categories  contribute the most to the overall revenue**
-      [chart here]
-
-9. **What are the Peak hours for coffee sales**
+8. **What are the Peak hours for coffee sales**
     
       **HOURS**
       |  6   | 7  |   8  |    9  |     10|       11  |      12   |  13     |  14  |   15|     16      |17       |18        |19      |20 |
       |------|----|------|-------|--------|--------|--------------|---------|-----|-----|--------------|---------|---------|---------|---|    
     |7811.95 |23579.90 |30579.85 |31014.85 |33297.10 |18188.15 |16162.90 |16620.95 |16725.35 |16737.05 |16861.55 |16527.65  |14241.20 | 10630.15 |973.85|
 
-    [Chart Here]
+    ![hourly sale](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/chart_and_tables/Hourly_Sales.png)
 
-10. **How is the revenue trend from month to month over the 2 Quarters**
+   The peak sales hour for coffee products is between **7am** and **10am**
 
-      Sales has an upward trend with february having the least sales and june having the highest sales
+9. **How is the revenue trend from month to month over the 2 Quarters**
 
-11. **Month-over-Month Growth Rate**
+![sales trend](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/chart_and_tables/Sales_Trend_Across_The_Months.png)
+
+   Sales has an upward trend with february having the least sales and june having the highest sales
+
+10. **Month-over-Month Growth Rate**
   
    
     |Month |Growth_Rate (MOM) |
@@ -161,8 +162,10 @@ Product Type
     There is almost no variation between the weekly sales, and Weekdays make more sales than weekend only by slight margin (almost no difference)
 
 13. **What is the Product Category Sales Trend Across the Months Like**
-    [chart here]
+    ![category sales trend](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/chart_and_tables/Category_Sales_Trend_Across_the_Month.png)
+
 [Analysis Notebook](https://github.com/Harbdulahi/Coffee_Sales_Performance_Analysis/blob/main/Coffee%20sales%20Performance/dataset%20and%20notebook/coffee_sale_performance_analysis.ipynb)
+
 ### Other Visuals
 
 
