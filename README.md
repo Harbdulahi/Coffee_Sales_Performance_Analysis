@@ -104,22 +104,22 @@ Product Type
    
 6. **Which product category gives the highest margin**
 
-       |Category | Sale | Percentage|
-       |---------|------|-----------|
-       |Coffee  |269952.45| 38.6%|
-       |Tea|  196405.95 |  28.10%|
-       |Bakery| 82315.64  | 11.77%|
-       |Drinking Chocolate|   72416.00 | 10.36%|
-       |Coffee beans|  40085.25  | 5.73%|
-       |Branded  |13607.00  |  1.94%|
-       |Loose Tea |  11213.60  |  1.60%|
-       |Flavours  |  8408.80  |  1.20%|
-       |Packaged Chocolate |  4407.64 | 0.63%|
+    |Category | Sale | Percentage|
+    |---------|------|-----------|
+    |Coffee  |269952.45| 38.6%|
+    |Tea|  196405.95 |  28.10%|
+    |Bakery| 82315.64  | 11.77%|
+    |Drinking Chocolate|   72416.00 | 10.36%|
+    |Coffee beans|  40085.25  | 5.73%|
+    |Branded  |13607.00  |  1.94%|
+    |Loose Tea |  11213.60  |  1.60%|
+    |Flavours  |  8408.80  |  1.20%|
+    |Packaged Chocolate |  4407.64 | 0.63%|
 
 
       [Chart here]
 
-       The **coffee category** give the highest sales margin of **38.63%**
+    The **coffee category** give the highest sales margin of **38.63%**
    
 
 7. **What are the Peak hours for coffee sales**
@@ -138,14 +138,14 @@ Product Type
 9. **Month-over-Month Growth Rate**
   
    
-         |Month |Growth_Rate (MOM) |
-         |------|-------------------|
-         |2023-01-31	| 0% |
-         |2023-02-28	| -6.77% |
-         |2023-03-31	|  29.79% |
-         |2023-04-30	|  20.34% |
-         |2023-05-31	| 31.76% |
-         |2023-06-30	| 6.22% |
+    |Month |Growth_Rate (MOM) |
+    |------|-------------------|
+    |2023-01-31	| 0% |
+    |2023-02-28	| -6.77% |
+    |2023-03-31	|  29.79% |
+    |2023-04-30	|  20.34% |
+    |2023-05-31	| 31.76% |
+    |2023-06-30	| 6.22% |
    
       The Avg growth rate across the months is: **16.27%**
 
