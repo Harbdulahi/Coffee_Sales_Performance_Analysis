@@ -58,7 +58,7 @@ Product Type
    There is only *slight* variation among the 3 stores **KPIs**
 
  
-3. **Which products are the top-selling products by revenue and quantity in each store?**
+3. **Which products are the top-selling products by quantity in each store?**
 
    | No. |Store Location|	Product Type	|Transaction Qty|
    |----|---------------|-----------------|---------------|
